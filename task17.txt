@@ -1,1 +1,1 @@
-/bookstore/book[@cover]
+/bookstore/*/attribute::cover
