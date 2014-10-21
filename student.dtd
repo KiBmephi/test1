@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 <!ELEMENT student EMPTY>
+=======
+<!ATTLIST student 
+	fullname CDATA #REQUIRED
+	group (К6-361|К6-362) #REQUIRED
+>
+>>>>>>> task2
